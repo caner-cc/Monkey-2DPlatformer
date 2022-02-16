@@ -16,5 +16,4 @@ Secret Areas
 
 
 Gameplay of the only level available:
-
-[![Watch the video](https://img.youtube.com/vi/hoA5Um0f_Ls/maxresdefault.jpg)](https://youtu.be/hoA5Um0f_Ls)
+https://youtu.be/hoA5Um0f_Ls
