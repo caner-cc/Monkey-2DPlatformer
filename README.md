@@ -9,7 +9,7 @@ The game lacks some features like a quit button and more levels and so on but it
 (To quit playing simply press alt + F4)
 
 
-Core Features:Jumping, Climbing Vines, Walljumping, Collecting Bananas, Secret Areas, (Shooting - not yet finalized)
+Core Features:Jumping, Climbing Vines, Walljumping, Collecting Bananas, Secret Areas, (Shooting Projectiles - not yet finalized)
 
 
 
