@@ -5,3 +5,15 @@ The other folders contain some key assets I made (Scripts + Sprites) for the gam
 The game lacks some features like a quit button and more levels and so on but it was meant as a 2-3 weeks long functioning semi-finished project!
 
 (To quit playing simply press alt + F4)
+
+Core Features:
+Jumping
+Climbing
+Walljumping
+Collecting Bananas
+Secret Areas
+(Shooting - not yet finalized)
+
+
+Gameplay of the only level available:
+https://youtu.be/hoA5Um0f_Ls
